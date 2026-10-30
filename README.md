@@ -3,6 +3,7 @@ An AI-Based ATS-Friendly Resume Builder that generates professional resumes from
 AI-Based ATS-Friendly Resume Builder 📄
 
 **📌 About the Project**
+
 The AI-Based ATS-Friendly Resume Builder is a web application designed to help students and job seekers create professional, well-structured resumes. Users can enter their personal information, education, skills, projects, and other details to generate a resume in a clean format.
 
 **🎯 Objectives**
