@@ -38,6 +38,20 @@ AI-ATS-Resume-Builder/
 ├── .gitignore
 └── README.md
 
+**Installation**
+1. Clone the repository:
+git clone https://github.com/Naga-Sai-Likhitha-Bachu/ATS-friendly-Resume-Builder.git
+
+2. Navigate to the project:
+cd ATS-friendly-Resume-Builder
+
+3. Install Flask:
+pip install flask
+
+4. Run the application:
+python app/app.py
+
+5. Open http://127.0.0.1:5000 in your browser.
 
 **🚀 Future Enhancements**
 - AI-powered resume content improvement.
